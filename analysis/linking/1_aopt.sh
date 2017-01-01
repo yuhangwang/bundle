@@ -1,0 +1,1 @@
+aopt() { for f in $1; do echo "bin/$P/$APREFIX$f.a"; done; }

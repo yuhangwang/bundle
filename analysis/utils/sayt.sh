@@ -1,0 +1,1 @@
+sayt() { [ "$VERBOSE" ] && printf "  %-15s %s\n" "$1" "$2"; }

@@ -1,0 +1,1 @@
+fopt() { for f in $1; do echo "-framework $f"; done; }

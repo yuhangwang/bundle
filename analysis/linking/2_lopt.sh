@@ -1,0 +1,1 @@
+lopt() { for f in $1; do echo "-l$f"; done; }
